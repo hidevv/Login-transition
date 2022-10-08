@@ -4,7 +4,7 @@ Tela de Login com transição
 
 
 
-![back-login4](https://user-images.githubusercontent.com/101675852/194686657-ceda79c1-74b2-4c85-a28b-34926aa991b0.png)
-![back-login3](https://user-images.githubusercontent.com/101675852/194686667-b8dab5c3-9076-41ee-bb94-9b31eb1090cc.png)
-![back-login2](https://user-images.githubusercontent.com/101675852/194686669-64421823-7a57-4972-a726-0b6303665270.png)
-![back-login2](https://user-images.githubusercontent.com/101675852/194686672-72d2ccd5-a693-4625-8739-ef12e92147fd.png)
+![log-desktop](https://user-images.githubusercontent.com/101675852/194686693-05e82396-fb48-476b-9c45-314bbcdea969.png)
+![register-desktop](https://user-images.githubusercontent.com/101675852/194686700-ef355246-f7b7-4f9d-b320-4fcb255712be.png)
+![mobile-view-register](https://user-images.githubusercontent.com/101675852/194686703-3fb6b8e6-7b52-4ad3-92b1-1d0b9dc08e8d.png)
+![mobile-view-log](https://user-images.githubusercontent.com/101675852/194686705-10a8150b-65c2-436f-bf82-2e912ac9c02f.png)
